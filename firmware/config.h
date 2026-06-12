@@ -1,0 +1,19 @@
+#pragma once
+
+#define VENDOR_ID       0xFEED
+#define PRODUCT_ID      0x0001
+#define DEVICE_VER      0x0001
+#define MANUFACTURER    Custom
+#define PRODUCT         RP2040 Keyboard
+
+
+#define MATRIX_ROWS 6
+#define MATRIX_COLS 17
+
+#define MATRIX_ROW_PINS { GP0, GP1, GP2, GP3, GP4, GP5}
+#define MATRIX_COL_PINS { GP6, GP7, GP8, GP9, GP10, GP11, GP12, GP13, GP14, GP15, GP16, GP17, GP18, GP19, GP20, GP21, GP22}
+#define DIODE_DIRECTION COL2ROW
+
+#define ENCODER_A_PINS { GP26 }
+#define ENCODER_B_PINS { GP27 }
+#define ENCODER_RESOLUTION 4  
