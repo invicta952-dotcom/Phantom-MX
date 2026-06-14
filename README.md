@@ -28,15 +28,22 @@ you may find many other custom keyboard with more features and better than this,
 3. **Mount the Pi Pico**: Place the Pi Pico onto its designated footprint. solder it in backside of the pcb.
 
 ---
+# Images
 
-### 4. Flashing the Firmware
-The Raspberry Pi Pico handles firmware deployment via a standard mass-storage interface using `.uf2` files.
+#   case
+<img width="351" height="190" alt="Screenshot From 2026-06-04 00-17-47" src="https://github.com/user-attachments/assets/b8bcce48-23bf-422c-a21d-4fab2431a717" />
 
-1. **Locate Firmware**: Find the pre-compiled `.uf2` firmware file in the `Firmware/` folder of this repository (or compile your own via QMK/Vial/KMK).
-2. **Activate Bootloader**: Press and **hold** the physical `BOOTSEL` button on your Raspberry Pi Pico board.
-3. **Connect to Computer**: While holding the button, plug the USB cable from the Pico into your computer. Release the button once it is plugged in.
-4. **Deploy File**: Your computer will mount a new USB storage device named `RPI-RP2`. Drag and drop (or copy-paste) your `.uf2` file directly into this folder.
-5. **Completion**: The Pico will automatically flash the firmware, unmount itself, and reboot as a functional USB mechanical keyboard.
+---
+
+#   zine
+<img width="404" height="618" alt="mechincal keyboard" src="https://github.com/user-attachments/assets/ba79c525-1c8f-44d7-8dab-ca86bda8086d" />
+
+---
+
+#   pcb
+<img width="644" height="368" alt="Screenshot From 2026-06-04 00-14-03" src="https://github.com/user-attachments/assets/9743e790-ec7d-47bc-b739-0b4cbc0d2b69" />
+<img width="663" height="358" alt="Screenshot From 2026-05-25 17-31-20" src="https://github.com/user-attachments/assets/5b2227f7-2bd5-445d-b0ec-61346b0572a3" />
+
 
 
     
