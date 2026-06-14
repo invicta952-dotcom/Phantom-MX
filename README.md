@@ -22,21 +22,10 @@ you may find many other custom keyboard with more features and better than this,
 
 ---
 
-### 2. Sourcing Components
-Before starting assembly, ensure you have the following components:
-* **Microcontroller**: Raspberry Pi Pico (or compatible RP2040 board specified by the schematic)
-* **Diodes**: 1N4148 switching diodes (SMD or Through-Hole depending on layout)
-* **Switches & Keycaps**: MX-compatible mechanical switches and keycaps
-* **Sockets**: Kailh hot-swap sockets (if using the hot-swap PCB variant)
-* **Cable**: High-quality USB data cable
-
----
-
 ### 3. Hardware Assembly
-1. **Solder Diodes**: Always solder small, low-profile components first. Align the black line (cathode) on each diode with the vertical line/bar indicated on the PCB silkscreen.
-2. **Solder Sockets/Switches**: Attach the Kailh hot-swap sockets or directly solder the mechanical switches into position.
-3. **Mount the Pi Pico**: Place the Pi Pico onto its designated footprint. You can solder it directly using its castellated edges, or use pin headers/sockets to make the microcontroller removable.
-4. **Inspect Joints**: Check all joints under good lighting for solder bridges, cold joints, or missing connections. Clean off any residual flux with isopropyl alcohol.
+1. **Solder Diodes**: Always solder small, low-profile components first. solder the diodes before the swithces for easy soldering.
+2. **Solder Sockets/Switches**: solder the switches by passing them from top plate and then top layer of pcb.
+3. **Mount the Pi Pico**: Place the Pi Pico onto its designated footprint. solder it in backside of the pcb.
 
 ---
 
