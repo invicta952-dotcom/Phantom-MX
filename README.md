@@ -43,6 +43,11 @@ you may find many other custom keyboard with more features and better than this,
 #   pcb
 <img width="644" height="368" alt="Screenshot From 2026-06-04 00-14-03" src="https://github.com/user-attachments/assets/9743e790-ec7d-47bc-b739-0b4cbc0d2b69" />
 <img width="663" height="358" alt="Screenshot From 2026-05-25 17-31-20" src="https://github.com/user-attachments/assets/5b2227f7-2bd5-445d-b0ec-61346b0572a3" />
+<br>
+<br>
+<br>
+onshape link <br>
+https://cad.onshape.com/documents/175f6b23ffbe170e5e8f7975/w/d68c6b2354c565e22789bc76/e/012a72f814c196a96be20986?renderMode=0&uiState=6a2fc775a442fa85ac58f430
 
 
 
