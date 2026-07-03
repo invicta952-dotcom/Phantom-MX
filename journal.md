@@ -7,7 +7,7 @@
 ## Entry 1
 - ID: 2750
 - Author: KK
-- Created At: 2026-04-18T18:14:05Z
+- Created At: 2026-04-18
 
 ### Content
 
@@ -21,6 +21,7 @@ i first wanted it to be somewhat like mac layout but then halfway there i reasli
 this is what i desgined till now <br>
 <img width="972" height="419" alt="1" src="https://github.com/user-attachments/assets/e09a85e9-d506-4675-8f76-d94de18d15b8" />
 
+**Total time spent: 35min**
 
 ### Recording Links
 
@@ -29,7 +30,7 @@ this is what i desgined till now <br>
 ## Entry 2
 - ID: 2927
 - Author: KK
-- Created At: 2026-04-19T18:28:20Z
+- Created At: 2026-04-19
 
 ### Content
 
@@ -44,6 +45,8 @@ didnt really faced any problems. it was just time consuming but also easy at sam
 anyway this is result of my work <br>
 <img width="785" height="353" alt="2" src="https://github.com/user-attachments/assets/170d0fc1-3e71-4de0-9a17-0f96e6bb93eb" />
 
+**Total time spent: 1h 4min**
+
 
 ### Recording Links
 
@@ -55,7 +58,7 @@ anyway this is result of my work <br>
 ## Entry 3
 - ID: 3084
 - Author: KK
-- Created At: 2026-04-20T18:29:20Z
+- Created At: 2026-04-20
 
 ### Content
 
@@ -72,6 +75,8 @@ final schnematics of usb-c <br>
 
 p.s. i am writting this journal 1 min before streak deadline
 
+**Total time spent: 1h 1min**
+
 ### Recording Links
 
 - https://public.lapse-hackclub.link/timelapses/OuZXTdKR3aUO/timelapse-OuZXTdKR3aUO.mp4
@@ -80,7 +85,7 @@ p.s. i am writting this journal 1 min before streak deadline
 ## Entry 4
 - ID: 3250
 - Author: KK
-- Created At: 2026-04-21T18:09:03Z
+- Created At: 2026-04-21
 
 ### Content
 
@@ -104,6 +109,8 @@ schnematics of rgb <br>
 
 <img width="573" height="222" alt="4-2" src="https://github.com/user-attachments/assets/d6fe673f-4091-4e9a-a8c5-ab8d0f4c1959" /> <br>
 
+**Total time spent: 1h 4min**
+
 
 
 ### Recording Links
@@ -114,7 +121,7 @@ schnematics of rgb <br>
 ## Entry 5
 - ID: 3429
 - Author: KK
-- Created At: 2026-04-22T18:27:24Z
+- Created At: 2026-04-22
 
 ### Content
 
@@ -129,6 +136,8 @@ final layout
 
 the red lines i made for reffrence
 
+**Total time spent: 1h 1min**
+
 
 ### Recording Links
 
@@ -139,8 +148,7 @@ the red lines i made for reffrence
 ## Entry 6
 - ID: 6784
 - Author: KK
-- Created At: 2026-05-12T15:51:46Z
-
+- Created At: 2026-05-12
 ### Content
 
 ### **_OKAY I REALLY FUCKED UP_**
@@ -160,6 +168,8 @@ also i recommend everyone to switch to dark mode
 and another thing i tried using the autoplacer but it didnt quite get the switches right like space bar. so i had to manually place every key
 <img width="848" height="312" alt="6-3" src="https://github.com/user-attachments/assets/71e184d8-bb24-4a3d-b5c7-e2ec5422e90e" />
 
+**Total time spent: 4h 16min**
+
 
 ### Recording Links
 
@@ -176,7 +186,7 @@ and another thing i tried using the autoplacer but it didnt quite get the switch
 ## Entry 7
 - ID: 7132
 - Author: KK
-- Created At: 2026-05-14T16:52:02Z
+- Created At: 2026-05-14
 
 ### Content
 
@@ -190,6 +200,8 @@ for anyone reading my journal what u should do when routing a keyboard is when g
 
 also i didnt mention it in previous journal but i have removed the rgb lights for backglow cuz i didnt have any gipo pins left
 
+**Total time spent: 2h 47min**
+
 
 ### Recording Links
 
@@ -201,7 +213,7 @@ also i didnt mention it in previous journal but i have removed the rgb lights fo
 ## Entry 8
 - ID: 9092
 - Author: KK
-- Created At: 2026-05-25T12:03:00Z
+- Created At: 2026-05-25
 
 ### Content
 
@@ -229,6 +241,7 @@ ROUTING
 3D MODEL OF PCB
 <img width="663" height="358" alt="9-2" src="https://github.com/user-attachments/assets/05e4dcf3-4d0f-4e5d-86cb-689c0fc977a8" />
 
+**Total time spent: 6h 46min**
 
 ### Recording Links
 
@@ -243,8 +256,7 @@ ROUTING
 ## Entry 9
 - ID: 11440
 - Author: KK
-- Created At: 2026-06-03T18:48:31Z
-
+- Created At: 2026-06-03
 ### Content
 
 lets start lapse by lapse so the journal could be detailed enough
@@ -291,6 +303,7 @@ i am going to dump all the screenshot at the end. sry to reviewer
 
 <img width="351" height="190" alt="9-5" src="https://github.com/user-attachments/assets/5841bb6b-4019-48a8-ae1d-d816a457a1a3" />
 
+**Total time spent: 5h 39min**
 
 ### Recording Links
 
@@ -305,8 +318,8 @@ i am going to dump all the screenshot at the end. sry to reviewer
 ## Entry 10
 - ID: 14195
 - Author: KK
-- Created At: 2026-06-15T08:11:28Z
-
+- Created At: 2026-06-15
+  
 ### Content
 
 things i did in these lapse:-
@@ -315,6 +328,8 @@ now the most hardest part was firmware for me as i am not that good with softwar
 
 **ZINE**
 <img width="404" height="618" alt="mechincal keyboard" src="https://github.com/user-attachments/assets/f8cacfb7-7e2b-49cc-a1cb-3788c01bafdf" />
+
+**Total time spent: 4h 3min**
 
 
 
