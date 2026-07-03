@@ -18,8 +18,8 @@ i first wanted it to be somewhat like mac layout but then halfway there i reasli
 
 
 
-this is what i desgined till now
-![Screenshot From 2026-04-18 23-40-44.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTc2MywicHVyIjoiYmxvYl9pZCJ9fQ==--7ea6adf51c4ef4c05a720e84a29705922bd5a94c/Screenshot From 2026-04-18 23-40-44.png)
+this is what i desgined till now <br>
+<img width="972" height="419" alt="1" src="https://github.com/user-attachments/assets/e09a85e9-d506-4675-8f76-d94de18d15b8" />
 
 
 ### Recording Links
@@ -41,8 +41,8 @@ problems:-
 didnt really faced any problems. it was just time consuming but also easy at same time. i later realised that i should have done one row and then copy paste it.
 
 
-anyway this is result of my work
-![Screenshot From 2026-04-19 23-52-43.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjA5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--65848730baaccaae28b2c1d9f04325b1f9bb2a09/Screenshot From 2026-04-19 23-52-43.png)
+anyway this is result of my work <br>
+<img width="785" height="353" alt="2" src="https://github.com/user-attachments/assets/170d0fc1-3e71-4de0-9a17-0f96e6bb93eb" />
 
 
 ### Recording Links
@@ -67,8 +67,8 @@ problem:-
 i wanted to add few rgb backlight but they needed more amp than i could pass through the pico so i needed to add seperate usb c for it.
 
 
-final schnematics of usb-c
-![Screenshot From 2026-04-20 23-55-28.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjQwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--25ef810197f34b4e4142e195594467f80238cb26/Screenshot From 2026-04-20 23-55-28.png)
+final schnematics of usb-c <br>
+<img width="368" height="346" alt="3" src="https://github.com/user-attachments/assets/cb3f1884-d1db-42dc-a080-85eecbda1485" /> <br>
 
 p.s. i am writting this journal 1 min before streak deadline
 
@@ -96,13 +96,14 @@ the problem i faced was just that i didnt knew which footprint i need to use for
 extra tip:- when googleing something always look for reedit
 
 
-somewhat of inspiration
-![images (1).jpeg](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Njc1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--33b48cf5f98a6d05225152bc17b81c05125831e0/images (1).jpeg)
+somewhat of inspiration <br>
+<img width="225" height="225" alt="4-1" src="https://github.com/user-attachments/assets/3422ab1e-dea7-4b1b-bb4f-3b6f7e722cd0" /> <br>
 
 
-schnematics of rgb
+schnematics of rgb <br>
 
-![Screenshot From 2026-04-21 23-34-21.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Njc1NywicHVyIjoiYmxvYl9pZCJ9fQ==--60ac32137282c96d48de889d6bfc4ee4e938d12b/Screenshot From 2026-04-21 23-34-21.png)
+<img width="573" height="222" alt="4-2" src="https://github.com/user-attachments/assets/d6fe673f-4091-4e9a-a8c5-ab8d0f4c1959" /> <br>
+
 
 
 ### Recording Links
@@ -124,7 +125,7 @@ problems:-
 i think i have messed up. i am one key short than my layout of keyboard. i dont think it will be much of problem. lets see what happens. and i didnt have any major problem expect i didnt know how long is space bar and other long keys
 
 final layout
-![Screenshot From 2026-04-22 23-53-08.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzA1NywicHVyIjoiYmxvYl9pZCJ9fQ==--d7878c635c272ea7b27bb6cacb00fb9689ce2338/Screenshot From 2026-04-22 23-53-08.png)
+<img width="747" height="252" alt="5" src="https://github.com/user-attachments/assets/56810251-3ec0-4c84-a618-7285874b2add" />
 
 the red lines i made for reffrence
 
@@ -146,16 +147,18 @@ the red lines i made for reffrence
 the thing is i made the matrix correctly in the keyboard jpg but in schnematics i just made an square matix. i didnt really understand about it until i was about to start routing that time i realised that it was just a big mess. then i solved it by doing the matrix in schnematics acc to the one i orginally decided
 
 before
-![Screenshot From 2026-05-12 21-17-45.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4NDMsInB1ciI6ImJsb2JfaWQifX0=--6d911ab1d6fc81da95790af86765798e803b6e2f/Screenshot From 2026-05-12 21-17-45.png)
+<img width="785" height="613" alt="6-1" src="https://github.com/user-attachments/assets/8cfaff7e-113b-4a8a-8351-98417619bef0" />
+
 
 
 after
-![Screenshot From 2026-05-12 21-19-26.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4NDQsInB1ciI6ImJsb2JfaWQifX0=--0806ff565624ad5fd9e3a5c97c1794858bc2b500/Screenshot From 2026-05-12 21-19-26.png)
+<img width="837" height="351" alt="6-2" src="https://github.com/user-attachments/assets/927c6ec1-7fbd-4a71-a63f-4baf75223b72" />
+
 
 also i recommend everyone to switch to dark mode
 
 and another thing i tried using the autoplacer but it didnt quite get the switches right like space bar. so i had to manually place every key
-![Screenshot From 2026-05-12 00-04-26.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4NDUsInB1ciI6ImJsb2JfaWQifX0=--d06af24414e7e5eafd6103080ee3b65aa8165c14/Screenshot From 2026-05-12 00-04-26.png)
+<img width="848" height="312" alt="6-3" src="https://github.com/user-attachments/assets/71e184d8-bb24-4a3d-b5c7-e2ec5422e90e" />
 
 
 ### Recording Links
@@ -182,7 +185,8 @@ and another thing i tried using the autoplacer but it didnt quite get the switch
 so the routing is completed and it looks really cool and clean as per my standard. the whole process went really well i didnt had any problem. 
 
 for anyone reading my journal what u should do when routing a keyboard is when going horizontal use backside and when going vetical use front side to route.
-![Screenshot From 2026-05-14 22-17-45.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU1NzcsInB1ciI6ImJsb2JfaWQifX0=--0ea71535a3d2340f010af584c7a900e67b13ce7b/Screenshot From 2026-05-14 22-17-45.png)
+<img width="946" height="493" alt="7" src="https://github.com/user-attachments/assets/bb877224-25b8-42d2-8d6d-49a962d43ae4" />
+
 
 also i didnt mention it in previous journal but i have removed the rgb lights for backglow cuz i didnt have any gipo pins left
 
@@ -215,13 +219,15 @@ things i did in the lapse:-
 when i first added the pcb i realised that it is bigger than i thought. then i removed all the unnesscary parts like seperate usb-c port as pi pico has one built-in. also first i thought of sandwich style but then realised that integrated plate mount is just better. and yeah when i assiging the 3d model i reaslied that pi pico is inveted but it was too late to change so i just went with it.
 
 3D MODEL THAT WENT TO WASTE
-![Screenshot From 2026-05-25 17-30-09.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjAxMjksInB1ciI6ImJsb2JfaWQifX0=--e7466b7c92c6868b7d19af36ef79d71895bb7a4a/Screenshot From 2026-05-25 17-30-09.png)
+<img width="685" height="386" alt="8-1" src="https://github.com/user-attachments/assets/5bf96a2c-b3bd-4bbb-8863-91460e84832c" />
+
 
 ROUTING
-![Screenshot From 2026-05-25 17-30-49.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjAxMzAsInB1ciI6ImJsb2JfaWQifX0=--acbc922d43ea958288c12c20ffeedec02a8c014c/Screenshot From 2026-05-25 17-30-49.png)
+<img width="573" height="320" alt="8-2" src="https://github.com/user-attachments/assets/e5cad638-47ae-4260-8c25-e6108caa3622" />
+
 
 3D MODEL OF PCB
-![Screenshot From 2026-05-25 17-31-20.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjAxMzEsInB1ciI6ImJsb2JfaWQifX0=--2302d4406f1b82d82ec6c5a566c6d4dde6d31f81/Screenshot From 2026-05-25 17-31-20.png)
+<img width="663" height="358" alt="9-2" src="https://github.com/user-attachments/assets/05e4dcf3-4d0f-4e5d-86cb-689c0fc977a8" />
 
 
 ### Recording Links
@@ -275,11 +281,15 @@ i am going to dump all the screenshot at the end. sry to reviewer
 
 
 
-![Screenshot From 2026-05-25 17-30-49.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjY1MTQsInB1ciI6ImJsb2JfaWQifX0=--96ed03657d7d7c5e4bcdaee65ffb2c4373445a93/Screenshot From 2026-05-25 17-30-49.png)
-![Screenshot From 2026-05-25 17-31-20.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjY1MTUsInB1ciI6ImJsb2JfaWQifX0=--1e022073e3a76c07ef0db2d688d61570d4b5870b/Screenshot From 2026-05-25 17-31-20.png)
-![Screenshot From 2026-05-26 14-31-54.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjY1MTcsInB1ciI6ImJsb2JfaWQifX0=--78fbcbb4b2a914164d9735f102ec221eb112200b/Screenshot From 2026-05-26 14-31-54.png)
-![Screenshot From 2026-05-26 14-32-13.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjY1MTksInB1ciI6ImJsb2JfaWQifX0=--1b9de333e3ca54eabea368372c9020664d227b0d/Screenshot From 2026-05-26 14-32-13.png)
-![Screenshot From 2026-06-04 00-17-47.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjY1MjEsInB1ciI6ImJsb2JfaWQifX0=--967815e456d860bfede91d4d68f53ccac1a0030f/Screenshot From 2026-06-04 00-17-47.png)
+<img width="573" height="320" alt="9" src="https://github.com/user-attachments/assets/c155c7f0-227a-47d0-a4f7-25c03125360a" />
+
+<img width="663" height="358" alt="9-2" src="https://github.com/user-attachments/assets/1f9cc571-8637-4fcc-b886-ae3863aa9521" />
+
+<img width="411" height="184" alt="9-3" src="https://github.com/user-attachments/assets/1d492920-cb5e-41d5-9cc8-b6ca8a09fb55" />
+
+<img width="613" height="306" alt="9-4" src="https://github.com/user-attachments/assets/7ba3caa2-3c4e-466c-aa23-d083db396d8b" />
+
+<img width="351" height="190" alt="9-5" src="https://github.com/user-attachments/assets/5841bb6b-4019-48a8-ae1d-d816a457a1a3" />
 
 
 ### Recording Links
@@ -304,7 +314,8 @@ completed the gihtub repo. i atcually worked for about 1:30 hr but i paused the 
 now the most hardest part was firmware for me as i am not that good with software. i admit that i did used ai for that but noyt entirly. i had one big problem when i was making gihtub repo that .step file for case+keyboard was 59mb but github has a limit of 25mb so i imported using terminal. i am no expert for that so i used ai to help me. one thing, i didnt used ai with lapse on, i just paused lapse for using ai.
 
 **ZINE**
-![mechincal keyboard.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzM3MDIsInB1ciI6ImJsb2JfaWQifX0=--6e85a2d73c9068728e21818f3e640a5e338c6288/mechincal keyboard.png)
+<img width="404" height="618" alt="mechincal keyboard" src="https://github.com/user-attachments/assets/f8cacfb7-7e2b-49cc-a1cb-3788c01bafdf" />
+
 
 
 ### Recording Links
